@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Task2
 
-You can find my asnwers to the questions [here](task2/customerquestions.md).
+You can find my asnwers to the questions [this customerquestions](task2/customerquestions.md).
 
 ## Available Scripts
 
