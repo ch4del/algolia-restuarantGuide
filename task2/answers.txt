@@ -41,7 +41,7 @@ I understand that it can be cumbersome and we already thought of ways to automat
 
 We worked on provding command line interface (CLI), Algolia CLI, which lets you manage indices (create, manage, delete) from your command line 
 
-you can find the documentation here (https://www.algolia.com/doc/tools/cli/get-started/overview/)	
+you can find the documentation [here](https://www.algolia.com/doc/tools/cli/get-started/overview/)	
 
 Have a look at the documentation and let us know if you have any questions.  
 
@@ -66,7 +66,7 @@ hope you're doing well.
 
 We've worked hard on provding ready-made libraries so that the integration of Algolia into any website is made easy. 
 
-Integrations are now easy with our InstantSearch.js library (https://github.com/algolia/instantsearch.
+Integrations are now easy with our InstantSearch.js library (https://github.com/algolia/instantsearch).
 
 There are few steps that need to be taken to setup your search data.afterwards you'll then integrate our InstantSearch library into your website and start using 
 Algolia for your search results. 
@@ -75,9 +75,9 @@ The setup process is as follows:
 1- create an account at Algolia, if you don't have one already. Follow the steps here (<ADD_LINK>)
 2- create an Index in your dashboard and then upload your data there
 
-Once the setup is ready you can then start integrating Reacht Instantsearch into your project by following our guide here (https://www.algolia.com/doc/guides/building-search-ui/getting-started/react/). 
+Once the setup is ready you can then start integrating Reacht Instantsearch into your project by following our guide [here](https://www.algolia.com/doc/guides/building-search-ui/getting-started/react/). 
 
-Additionally, you can take a look at our Reach Instantsearch LIVE Demo here (https://codesandbox.io/p/sandbox/github/algolia/instantsearch/tree/master/examples/react/default-theme) and start tinkering around to see how the integration works. 
+Additionally, you can take a look at our Reach Instantsearch LIVE Demo [here](https://codesandbox.io/p/sandbox/github/algolia/instantsearch/tree/master/examples/react/default-theme) and start tinkering around to see how the integration works. 
 
 Please let us know if you have any more questions. 
 
