@@ -1,0 +1,29 @@
+.ratings_container {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 3px 10px;
+}
+
+.rating_container {
+  display: flex;
+  gap: 5px;
+
+  > .score {
+    color: #ffab66;
+  }
+
+  > .stars {
+    display: flex;
+    gap: 1px;
+
+    & img {
+      height: 15px;
+      width: 15px;
+    }
+  }
+
+  > .reviews {
+    color: #a9a9a9;
+  }
+}
