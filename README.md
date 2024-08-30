@@ -5,6 +5,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+./src/data/pushDatatoIndex.js
+
+## How is Algoliasearch utilized in the project 
+
+The searchengine integration into the restaurant guide web app depends on POST request, ie I didnt use the Algoliasearch-helper. 
+
+User input is fed into the POST request body which then retrieves a response from my Agolia restaurants index. The response is then updated into the results componenat accordingly. 
+
+USER INPUT -> POST Request to ALgolia -> Reponse -> Handle Response (render it in results)
 
 ### `npm start`
 
