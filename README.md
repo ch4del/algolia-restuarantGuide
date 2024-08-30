@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Task2
+
+You can find my asnwers to the questions here (task2/answers.txt).
+
 ## Available Scripts
 
 In the project directory, you can run:
