@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/algolia-restuarantGuide/static/css/main.be62c423.css",
+    "main.js": "/algolia-restuarantGuide/static/js/main.ce66a775.js",
+    "static/media/star-off.png": "/algolia-restuarantGuide/static/media/star-off.162e335cc46a3675f035.png",
+    "static/media/star-on.png": "/algolia-restuarantGuide/static/media/star-on.afe61c44ac5dfb34bf0f.png",
+    "index.html": "/algolia-restuarantGuide/index.html",
+    "main.be62c423.css.map": "/algolia-restuarantGuide/static/css/main.be62c423.css.map",
+    "main.ce66a775.js.map": "/algolia-restuarantGuide/static/js/main.ce66a775.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be62c423.css",
+    "static/js/main.ce66a775.js"
+  ]
+}
