@@ -21,7 +21,7 @@ search experience for your customers.
 
 Cheers, George
 
-Hello Georga, 
+Hello George, 
 
 
 plesae find my answers above to your questions. 
@@ -30,7 +30,9 @@ Ill be happy to go on a quick call with you to explain those concepts further.
 
 Best, Adel
 
+
 Question 2: Hello,
+-------------------------------------------------------------------------------------------------------------------------
 
 Sorry to give you the kind of feedback that I know you do not want to hear, but I really hate the new dashboard design. Clearing and deleting indexes are now several clicks away. I am needing to use these features while iterating, so this is inconvenient.
 
@@ -51,8 +53,10 @@ Best, Adel
 
 Regards, Matt
 
-Question 3: Hi,
 
+
+Question 3: Hi,
+-------------------------------------------------------------------------------------------------------------------------
 I'm looking to integrate Algolia in my website. Will this be a lot of development work for me? What's the high level process look like?
 
 Regards, Leo
